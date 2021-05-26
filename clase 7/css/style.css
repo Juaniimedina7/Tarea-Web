@@ -1,0 +1,21 @@
+.btn-primary{
+    background-color: greenyellow;
+    border-color: greenyellow;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    color: #fff;
+    background-color: rgb(122, 189, 22);
+    border-color: rgb(122, 189, 22);
+}
+
+.carrousel-c-container {
+max-width: 650px;
+max-height: 350px;
+margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    margin: 0 auto;
+}

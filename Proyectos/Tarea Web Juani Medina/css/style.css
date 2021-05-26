@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+  }
+  
+  header {
+    background-color: #243572;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  a {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+  .container {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1200px;
+    border: 1px black solid;
+}
+
+.head-nav{
+ background-color: white;
+}
